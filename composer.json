@@ -3,6 +3,7 @@
     "description": "An API library for trustedshops",
     "version": "1.0.0-alpha.1",
     "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
     "keywords": [
         "trustedshops",
         "lib-api",
