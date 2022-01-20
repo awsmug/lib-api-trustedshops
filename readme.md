@@ -1,6 +1,6 @@
-# Awesome Lib API
+# Awesome Lib API for Trusted Shops
 
-Library for API requests.
+Library for API requests to trusted shops.
 
 ![](https://github.com/awsmug/lib-api/workflows/PHPUnit/badge.svg)
 
